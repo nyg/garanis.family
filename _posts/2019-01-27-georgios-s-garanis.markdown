@@ -2,7 +2,6 @@
 layout: post
 title:  "Γεώργιος Σ. Γκαράνης"
 date:   2019-01-27 22:18:51 +0200
-permalink: /georgios-s-garanis
 ---
 
 # Γενικές πληροφορίες

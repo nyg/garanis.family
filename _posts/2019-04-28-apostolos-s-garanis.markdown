@@ -2,7 +2,6 @@
 layout: post
 title:  "Απόστολος Σ. Γκαράνης"
 date:   2019-04-28 22:18:51 +0200
-permalink: /apostolos-s-garanis
 ---
 
 # Γενικές πληροφορίες

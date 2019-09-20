@@ -2,7 +2,6 @@
 layout: post
 title:  "Στέργιος Γ. Γκαράνης"
 date:   2019-02-01 22:18:51 +0200
-permalink: /stergios-g-garanis
 ---
 
 # Γενικές πληροφορίες
