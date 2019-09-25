@@ -4,8 +4,17 @@
 
 @import "minima";
 
-p, h1, h2, h3, h4, h5, a, li, td {
+p, h1, h2, h3, h4, h5, h6, a, li, td {
     font-family: "Noto Serif";
+}
+
+.post-content p {
+    text-align: justify;
+}
+
+.post-image figcaption {
+    text-align: center;
+    padding: 5px 20px;
 }
 
 blockquote {
