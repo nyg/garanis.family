@@ -4,38 +4,46 @@
 
 @import "minima";
 
-p, h1, h2, h3, h4, h5, h6, a, li, td, figcaption {
+* {
     font-family: "Noto Serif";
+    letter-spacing: normal;
+    -webkit-font-smoothing: antialiased;
 }
+
+/* Header */
 
 .post-header {
     text-align: center;
 }
 
-.post-header-image {
+.page-header-image {
+    margin-bottom: 30px;
+}
+
+.page-header-image, .post-header-image {
     border-radius: 7px;
     box-shadow: 0 0 10px;
 }
 
-.post-content p {
+/* Post content */
+
+.post-content p, .post-content li, .post-content td {
     text-align: justify;
+    font-size: 17px;
+    line-height: 30px;
 }
 
 .post-image figcaption {
     text-align: center;
-    padding: 5px 20px;
+    padding: 5px 40px;
 }
 
 blockquote {
     color: inherit;
-    font-style: normal;
-    text-align: justify;
     text-indent: 2em;
 }
 
-blockquote > p {
-    margin-bottom: 10px;
-}
+/* Home */
 
 .rss-subscribe {
     font-style: italic;
