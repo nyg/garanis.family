@@ -12,7 +12,7 @@ excerpt:   Γεννήθηκε το 1906 στο Βρυσοχώρι και πέθ�
 
 * Έζησε το διάστημα 1906–2004
 * Σύζυγος: Δέσποινα Θεοδώρου το γένος Μπαλάφα (1917–06.2000)
-* Γονείς: Στέργιος και Χάιδω το γένος Τσιώμου
+* Γονείς: [Στέργιος]({% post_url 2019-02-01-stergios-g-garanis %}) και Χάιδω το γένος Τσιώμου
 * Τρία παιδιά εν ζωή
 
 # Βιογραφία
@@ -47,8 +47,8 @@ excerpt:   Γεννήθηκε το 1906 στο Βρυσοχώρι και πέθ�
 
 # Φωτογραφίες
 
-{% include image.html url="/assets/images/apostolos-gamos.jpg" alt="Ο γάμος τού Απόστολου στο Βρυσοχώρι." caption="Γάμος Απόστολου Στ. Γκαράνη και Δέσποινας Μπαλάφα στο Βρυσοχώρι το 1933. — Πηγή Α, σελίδα 210." %}
+{% include image-pigi.html url="/assets/images/apostolos-gamos.jpg" alt="Ο γάμος τού Απόστολου στο Βρυσοχώρι." caption="Γάμος Απόστολου Στ. Γκαράνη και Δέσποινας Μπαλάφα στο Βρυσοχώρι το <strong>1933</strong>." pigi="A" selida="210" %}
 
-{% include image.html url="/assets/images/apostolos-akropolis.jpg" alt="Ο Απόστολος Γκαράνης και η γυναίκα του στην Ακρόπολη." caption="Ο Απόστολος Στ. Γκαράνης με τη σύζυγό του Δέσποινα το 1935 στην Ακρόπολη. — Πηγή Α, σελίδα 92." %}
+{% include image-pigi.html url="/assets/images/apostolos-akropolis.jpg" alt="Ο Απόστολος Γκαράνης και η γυναίκα του στην Ακρόπολη." caption="Ο Απόστολος Στ. Γκαράνης με τη σύζυγό του Δέσποινα το <strong>1935</strong> στην Ακρόπολη." pigi="A" selida="92" %}
 
-{% include image.html url="/assets/images/apostolos-gynaika-mitera.jpg" alt="Ο Απόστολος με την γυναίκα του και την μητέρα του." caption="1938. Η Δέσποινα και ο Απόστολος Στ. Γκαράνης με τη μητέρα του Χάιδω. — Πηγή Α, σελίδα 93." %}
+{% include image-pigi.html url="/assets/images/apostolos-gynaika-mitera.jpg" alt="Ο Απόστολος με την γυναίκα του και την μητέρα του." caption="<strong>1938</strong>. Η Δέσποινα και ο Απόστολος Στ. Γκαράνης με τη μητέρα του Χάιδω." pigi="A" selida="93" %}
