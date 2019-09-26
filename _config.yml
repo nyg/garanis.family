@@ -2,8 +2,6 @@
 lang:        el
 title:       Οικογένεια Γκαράνη
 description: Πληροφορίες και ιστορίες σχετικές με την οικογένεια Γκαράνη.
-#url:         https://nyg.github.io
-#baseurl:     /garanis.family
 url:         https://next.garanis.family
 
 # Index page
