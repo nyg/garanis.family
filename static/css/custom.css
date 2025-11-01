@@ -1,0 +1,23 @@
+* {
+    font-family: Georgia, serif;
+}
+
+p {
+    text-align: justify;
+}
+
+/* Tell footer to stay at the bottom on small pages */
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}

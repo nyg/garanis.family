@@ -1,5 +1,6 @@
 baseURL = 'https://nyg.github.io/garanis.family/'
 languageCode = 'el-gr'
+defaultContentLanguage = 'el'
 title = 'Οικογένεια Γκαράνη'
 theme = 'ananke'
 
@@ -12,3 +13,4 @@ pages = "/:contentbasename/"
 
 [params]
 mainSections = ["posts"]
+custom_css = ["css/custom.css"]
