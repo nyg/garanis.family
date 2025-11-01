@@ -1,8 +1,14 @@
 baseURL = 'https://nyg.github.io/garanis.family/'
 languageCode = 'el-gr'
-title = 'My New Hugo Site'
+title = 'Οικογένεια Γκαράνη'
 theme = 'ananke'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[permalinks]
+pages = "/:contentbasename/"
+
+[params]
+mainSections = ["posts"]
