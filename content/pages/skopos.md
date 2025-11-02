@@ -12,10 +12,6 @@ weight: 3
 Στον ιστότοπο δεν θα γίνεται αναφορά σε άτομα που βρίσκονται εν ζωή χωρίς τη
 ρητή συγκατάθεσή τους.
 
-Για επικοινωνία, μπορείτε να απευθυνθείτε μέσω Facebook στο προφίλ
-[nick.garanis.923][2].
+Για επικοινωνία, μπορείτε να απευθυνθείτε στο <a href="mailto:admin@garanis.family">admin@garanis.family</a>.
 
-Νίκος Γ. Γκαράνης
-
-[1]: http://mosv.gr/?ref=garanis.family
-[2]: https://www.facebook.com/nick.garanis.923
+[1]: http://mosv.gr/
