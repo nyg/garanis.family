@@ -11,7 +11,8 @@
 {{ define "main" }}
 {{ $page := .}}
 {{ $section := .Site.GetPage "section" .Section }}
-<article class="flex-l mw7 center ph3 pv4 flex-wrap justify-between">
+{{ $max_width := cond (eq .Params.large true) "mw9" "mw7" }}
+<article class="flex-l {{ $max_width }} center ph3 pv4 flex-wrap justify-between">
     <header class="w-100">
         <h1 class="f1 mt3 mb1">
             {{- .Title -}}
