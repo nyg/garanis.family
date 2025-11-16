@@ -19,7 +19,7 @@
       <section class="w-100 mw8">
         {{/* Range through the first $n_posts items of the section */}}
         {{ range (collections.First $n_posts $section) }}
-          <div class="w-100 mb4 relative">
+          <div class="w-100 relative">
             {{ .Render "summary-with-image" }}
           </div>
         {{ end }}

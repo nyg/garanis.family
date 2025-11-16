@@ -14,3 +14,4 @@ pages = "/:contentbasename/"
 [params]
 mainSections = ["posts"]
 custom_css = ["css/custom.css"]
+cover_dimming_class = "bg-transparent"

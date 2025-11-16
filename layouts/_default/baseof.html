@@ -48,9 +48,6 @@
     {{- template "_internal/schema.html" . -}}
     {{- template "_internal/twitter_cards.html" . -}}
 
-    {{ if hugo.IsProduction }}
-      {{ template "_internal/google_analytics.html" . }}
-    {{ end }}
 	{{ block "head" . }}{{ partials.Include "head-additions.html" . }}{{ end }}
   </head>
 
